@@ -22,11 +22,18 @@ nav ul {
   list-style: none;
   display: flex;
   gap: 1em;
+  margin: 0;
+  padding: 0;
 }
 
 nav a {
   color: #fff;
   text-decoration: none;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
 }
 
 .hero {
